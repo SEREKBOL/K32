@@ -15,7 +15,7 @@
     "8023642053": {
         "key": "D6JnK3Sq",
         "balance": 1000,
-        "is_blocked": true,
+        "is_blocked": false,
         "unlimited": false,
         "name": "Серекбол"
     }
