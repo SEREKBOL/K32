@@ -1,0 +1,22 @@
+{
+    "6822729424": {
+        "key": "Nqg2sflm",
+        "balance": 999999999,
+        "is_blocked": false,
+        "unlimited": true
+    },
+    "8409728804": {
+        "key": "gEpVulDU",
+        "balance": 2000,
+        "is_blocked": false,
+        "unlimited": false,
+        "name": "Esuhei"
+    },
+    "8023642053": {
+        "key": "D6JnK3Sq",
+        "balance": 1000,
+        "is_blocked": false,
+        "unlimited": false,
+        "name": "Серекбол"
+    }
+}
